@@ -1,0 +1,5 @@
+- intalação react
+    npx create-react-app "nome app"
+
+- instalação google charts
+    npm install react-google-charts --save
