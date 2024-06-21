@@ -1,0 +1,9 @@
+div {
+  background: rgb(247, 243, 243);
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.chart {
+}
